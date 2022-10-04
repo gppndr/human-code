@@ -28,7 +28,7 @@
              - vado a pagare
         - SE (la lista è finita)
             - SE (se la differenza tra la somma ed i miei soldi è positiva)
-                compro degli snack extra
+                - compro degli snack extra
             - ALTRIMENTI 
                 - vado a pagare
 
