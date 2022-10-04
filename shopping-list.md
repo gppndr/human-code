@@ -24,8 +24,6 @@
             - faccio la somma e comparo con i soldi che ho a disposizione
         - ALTRIMENTI 
             - continuo con la ricerca dei prodotti
-         - ALTRIMENTI (la lista è finita)
-             - vado a pagare
         - SE (la lista è finita)
             - SE (se la differenza tra la somma ed i miei soldi è positiva)
                 - compro degli snack extra
